@@ -332,7 +332,7 @@ img {
   box-shadow: 0 8px 28px rgba(9, 30, 66, 0.05);
 }
 .card_1{
-  background-image: url('/images/brotherhood.jpg');
+  background-image: url('./images/brotherhood.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -348,7 +348,7 @@ img {
  
 }
 .card_2{
-  background-image:  url('/images/scholarshipimg.jpg'); 
+  background-image:  url('./images/scholarshipimg.jpg'); 
  
   background-size: cover;
   background-position: center;
