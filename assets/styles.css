@@ -202,7 +202,7 @@ img {
 }
 .page-hero-main{
   height: 500px;
-  background-image: url("./images/main_brothers_img.jpg");
+  background-image: url(./images/main_brothers_img.jpg);
   background-repeat: no-repeat;
   background-size: cover;       
 }
@@ -332,7 +332,7 @@ img {
   box-shadow: 0 8px 28px rgba(9, 30, 66, 0.05);
 }
 .card_1{
-  background-image: url("./images/brotherhood.jpg");
+  background-image: url(./images/brotherhood.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -348,7 +348,7 @@ img {
  
 }
 .card_2{
-  background-image:  url("./images/scholarshipimg.jpg"); 
+  background-image:  url(./images/scholarshipimg.jpg); 
  
   background-size: cover;
   background-position: center;
@@ -365,7 +365,7 @@ img {
   
 }
 .card_3{
-  background-image: url("./images/sleepinheavenlypeaceimg2.jpg");
+  background-image: url(./images/sleepinheavenlypeaceimg2.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
