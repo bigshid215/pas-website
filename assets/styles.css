@@ -202,7 +202,7 @@ img {
 }
 .page-hero-main{
   height: 500px;
-  background-image: url(./images/main_brothers_img.jpg);
+  background-image: url('./images/main_brothers_img.jpg');
   background-repeat: no-repeat;
   background-size: cover;       
 }
@@ -365,7 +365,7 @@ img {
   
 }
 .card_3{
-  background-image: url('/images/sleepinheavenlypeaceimg2.jpg');
+  background-image: url('./images/sleepinheavenlypeaceimg2.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
