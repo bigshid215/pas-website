@@ -202,7 +202,7 @@ img {
 }
 .page-hero-main{
   height: 500px;
-  background-image: url(main_brothers_img.jpg);
+  background-image: url(/main_brothers_img.jpg);
   background-repeat: no-repeat;
   background-size: cover;       
 }
