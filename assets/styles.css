@@ -348,7 +348,7 @@ img {
  
 }
 .card_2{
-  background-image:  url('../images/scholarshipimg.jpg'); 
+  background-image:  url('.../images/scholarshipimg.jpg'); 
  
   background-size: cover;
   background-position: center;
