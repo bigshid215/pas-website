@@ -117,7 +117,7 @@ img {
 }
 .nav a:hover,
 .nav a.active {
-  color: var(--blue);
+  color: var(--white);
   background-color: var(--blue);
 }
 .nav .button {
