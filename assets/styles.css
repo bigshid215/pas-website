@@ -557,7 +557,7 @@ textarea {
   color: #164f90;
 }
 .footer a,
-footer a:hover{
+.footer a:hover{
   display: block;
   margin: 7px 0;
   color:var(--blue);
