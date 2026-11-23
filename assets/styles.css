@@ -28,6 +28,9 @@ body {
 .cardmain img{
   margin:auto;
 }
+.placeholder :hover{
+background-color: var(--blue);
+}
 .mainshield{
   height:400px;
   width: 400px;
